@@ -1,2 +1,5 @@
+# Excel temp files
+~$*.xlsx
+
 # Vim swap
 .*.sw*
