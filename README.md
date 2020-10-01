@@ -56,8 +56,9 @@ in a client project).
    up with 1300-1400 people; the latter two fields were unknown for most of
    them.
 1. Assign `0` to `tier` for all of these people.
-1. Make a pass through all of these people. When you see one who be in your
-   power circles, increase their tier.
+1. Make a pass through all of these people. When you see one that feels warm
+   (or that deserves effort to get to warm), assign them an appropriate tier
+   (1, 2, or 3) depending on how close they are.
 1. Use Excel's "custom sort" to sort people by tier, then by last contacted,
    then by last name. This custom sort has been saved in this spreadsheet. You
    can pull it up using `Ctrl-Shift-R` (`Cmd-Shift-R` on a Mac). You'll use
@@ -68,8 +69,8 @@ in a client project).
 1. Set up the frequency of contact you'd like to commit to for these tiers, and
    enter them in the `tiers` sheet.
 1. You'll probably find that you're in the red at first with a lot of people
-   below your top 50 or so. I found getting current with everyone in my lowest
-   tier took me a couple months of pretty heavy outreach effort.
+   below your top 50 or so. I found getting current with everyone in my power
+   circles took me a couple months of pretty heavy initial outreach effort.
 
 ## Maintenance of your power circles
 
