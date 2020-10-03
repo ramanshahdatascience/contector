@@ -58,7 +58,7 @@ in a client project).
 1. Assign `0` to `tier` for all of these people.
 1. Make a pass through all of these people. When you see one that feels warm
    (or that deserves effort to get to warm), assign them an appropriate tier
-   (1, 2, or 3) depending on how close they are.
+   (1, 2, or 3, 3 being closest) depending on how close they are.
 1. Use Excel's "custom sort" to sort people by tier, then by last contacted,
    then by last name. This custom sort has been saved in this spreadsheet. You
    can pull it up using `Ctrl-Shift-R` (`Cmd-Shift-R` on a Mac). You'll use
@@ -78,7 +78,7 @@ in a client project).
    your power circles.
 1. Use the custom sort `Ctrl-Shift-R` (`Cmd-Shift-R`) to easily review who is
    almost overdue and overdue in your power circles.
-1. Use the `average_recency` score to see how you're doing with your
+1. Use the `average_recency` sheet to monitor how you're keeping up your
    relationship management in general. If you're steady at keeping up with
    them, it will hover around 50%. You'll find in practice that this score
    fluctuates as you get busier and less busy with billable work, life events,
