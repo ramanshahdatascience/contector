@@ -11,7 +11,7 @@ management" is the following workflow:
   business and personal. Its size will roughly be Dunbar's number (100-250,
   nominally ~150).
 - Divide that "tribe" into a few "power circles" or quality-of-service tiers
-  (Robinett suggests three tiers: 5 + 50 + 150 = 155).
+  (Robinett suggests three tiers: 5 + 50 + 100 = 155).
 - Commit to a frequency of contact for each power circle (Robinett suggests
   being in touch with each of the 5 daily, each of the 50 weekly, and each of
   the 100 monthly) and reach out to add value to these people at least this
