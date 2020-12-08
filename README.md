@@ -8,8 +8,9 @@ Robinett argues that the heart of "networking" or "strategic relationship
 management" is the following workflow:
 
 - Identify your "tribe" of relationships encompassing all of your life,
-  business and personal. Its size will roughly be Dunbar's number (100-250,
-  nominally ~150).
+  business and personal. Its size will roughly be [Dunbar's
+  number](https://en.wikipedia.org/wiki/Dunbar%27s_number) (100-250, nominally
+  ~150).
 - Divide that "tribe" into a few "power circles" or frequency tiers (Robinett
   suggests three tiers: 5 + 50 + 100 = 155).
 - Commit to a frequency of contact for each power circle (Robinett suggests
