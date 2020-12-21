@@ -1,7 +1,8 @@
 # Contact reminders for power connectors
 
-This repo contains an Excel workbook (built with Excel for Mac 2019) to
-accomplish the core bookkeeping in [How to be a Power
+This repo contains an Excel workbook (built with Excel for Mac 2019 but
+intended to be backward-compatible to Excel 2003) to accomplish the core
+bookkeeping in [How to be a Power
 Connector](https://isbnsearch.org/isbn/9780071830737) by Judy Robinett.
 
 Robinett argues that the heart of "networking" or "strategic relationship
