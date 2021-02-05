@@ -19,7 +19,7 @@ management" is the following workflow:
   the 100 monthly) and reach out to add value to these people at least this
   often.
 - Continually upgrade these power circles as you meet worthwhile new people and
-  others inevitably roll off the bottom.
+  others inevitably roll off.
 
 This workbook provides a place to maintain a list of people, their place in
 one's power circles, and information about the most recent contact for each of
@@ -45,9 +45,11 @@ Dunbar's-number-based structure:
 
 I've found this intensity to be sustainable in lieu of being on social media.
 It consumes similar or slightly more bandwidth as, e.g., routine Facebook use,
-but the relationship value enjoyed is far richer.  It helps me in my consulting
-practice to keep my profesisonal network warm even when busy (e.g., when deep
-in a client project).
+but the relationship value enjoyed is far richer. The frequency of contact
+enforced by this system keeps friendships warm even in isolating life
+circumstances, such as in COVID times as a serial transplant with many young
+parents for friends. It also helps independents like me keep a professional
+network healthy even when busy (e.g., when deep in a client project).
 
 ## Initial setup
 
@@ -74,9 +76,11 @@ in a client project).
    closer to 5 + 25 + 160 = 190).
 1. Set up the maximum days between contacts you'd like to commit to for these
    tiers, and enter them in the `tiers` sheet.
-1. You'll probably find that you're in the red at first with a lot of people
-   below your top 50 or so. I found getting current with everyone in my power
-   circles took me a couple months of pretty heavy initial outreach effort.
+1. You'll probably find that you're in the red at first with a lot of the
+   people in your tier 1. Good practice is to catch up at a sustainable pace,
+   1-2 people per day. If you rapidly get current with your tier 1 in a bonanza
+   of outreach, you'll have a lumpy recency distribution where, in 16 weeks,
+   you get overwhelmed with everyone coming due again at once.
 
 ## Maintenance of your power circles
 
@@ -87,8 +91,9 @@ in a client project).
 1. Use the `average_recency` sheet to monitor how you're keeping up your
    relationship management in general. I find, between people who fall all the
    way to near-zero recency and others whom I contact more regularly and
-   spontaneously, that my average recency hovers in the 57-61% range. You'll
+   spontaneously, that my average recency hovers in the 57-68% range. You'll
    find in practice that this score fluctuates as you get busier and less busy
    with billable work, life events, etc.
-1. Promote and demote people as they become relevant, disappear from your life,
-   etc., by adding rows or adjusting their tier labels.
+1. Add, remove, promote, and demote people from your power circles as they
+   become relevant, disengage from you, etc., by adding rows or adjusting their
+   tier labels.
