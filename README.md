@@ -73,7 +73,7 @@ network healthy even when busy (e.g., when deep in a client project).
    this custom sort all of the time in this spreadsheet.
 1. Massage these tier labels until their sizes are reasonably in line with the
    above guidance. They don't have to be exact (in fact my power circles are
-   closer to 5 + 25 + 160 = 190).
+   closer to 4 + 16 + 160 = 180).
 1. Set up the maximum days between contacts you'd like to commit to for these
    tiers, and enter them in the `tiers` sheet.
 1. You'll probably find that you're in the red at first with a lot of the
@@ -86,8 +86,10 @@ network healthy even when busy (e.g., when deep in a client project).
 
 1. Every day, enter the date and description of your contacts with people in
    your power circles. The `Ctrl-;` shortcut key for today's date is key here.
-1. Use the custom sort `Ctrl-Shift-R` (`Cmd-Shift-R`) to easily review who is
-   almost overdue and overdue in your power circles.
+1. Re-apply the custom sort  to tidy up the list and easily review who is
+   "bubbling up" in your power circles. On my 2019 Excel for Mac, the sort is
+   pulled up with a `Cmd-Shift-R`; on a current version of Excel 365 on a
+   Windows machine, this is done by typing `Alt + A + S + S` in sequence.
 1. Use the `average_recency` sheet to monitor how you're keeping up your
    relationship management in general. I find, between people who fall all the
    way to near-zero recency and others whom I contact more regularly and
