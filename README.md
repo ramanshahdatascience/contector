@@ -2,23 +2,23 @@
 
 This repo contains an Excel workbook to accomplish the core bookkeeping in [How
 to be a Power Connector](https://isbnsearch.org/isbn/9780071830737) by Judy
-Robinett.  As of the time of writing, I can prove that I've talked to all ~175
-people in my "tribe" in the last 16 weeks. I've been able to prove this
-continuously for 1.5 years.
+Robinett.
 
-If this level of care for one's relationships inspires you, it's in your power
-to get there, too, with the help of this workbook. Read on.
+At the time of writing, I can prove that I've talked to all 177 people in my
+"tribe" in the last 16 weeks. I've been able to prove such a thing continuously
+for 1.5 years. If this level of care for relationships inspires you, it's in
+your power to get there, too, with the help of this workbook.
 
 In the pre-industrial age, with your tribe all in close physical proximity,
 memory and random encounters were enough to stay current with your tribe. In
-the modern age, with relationships spanning great distance and pandemics
+the industrial age, with relationships spanning great distance and pandemics
 limiting proximity, these tools are inadequate. Alone, they allow far too many
-people at the periphery of your tribe to fade into disconnection, and your
-tribe collapses to an excessively isolating size. Human cognition is simply bad
-at noticing what isn't there.  If you rely on social media, you're pulled into
-too many connections of too low a quality, prioritized badly (giving the most
-headspace to the smuggest, neediest, or more controversial people - who sell
-engagement and ads - instead of the most emotionally generous).
+people at the periphery of your tribe to fade into disconnection, your world
+collapses into isolation. Human cognition is simply bad at noticing what isn't
+there.  If you rely on social media, you're pulled into too many connections of
+too low a quality, sorted badly. Social media gives the most headspace to
+the smuggest, neediest, or more controversial people, who sell engagement and
+ads, instead of the most generous or reliable.
 
 Robinett argues that the heart of "networking" or "strategic relationship
 management" is the following workflow:
@@ -61,8 +61,8 @@ basic Dunbar's-number-based structure:
   many days.)
 
 I've found this reduced intensity to be sustainable in lieu of being routinely
-on social media: it consumes similar emotional and temporal bandwidth but with
-far richer rewards. The frequency of contact enforced by this system keeps
+on social media: it consumes similar time and emotional energy but with far
+richer rewards. The frequency of contact enforced by this system keeps
 friendships warm even in isolating life circumstances, such as in COVID times
 as a serial transplant with many young parents for friends.  It also helps
 independents like me keep a professional network healthy even when busy (e.g.,
@@ -83,7 +83,8 @@ when deep in a client project).
 1. Make a pass through all of these people. When you see a relationship that
    feels warm (or that deserves effort to get to warm), assign them an
    appropriate tier (1, 2, or 3, 3 being the warmest) depending on how close
-   they are.
+   they are. This volume of judgment calls about one's relationships is also a
+   lot of (emotional) effort.
 1. Use Excel's "custom sort" to sort people by tier, then by last contacted,
    then by last name. This custom sort has been saved in this spreadsheet. You
    can pull it up using `Alt + A + S + S` on Excel 365 (`Cmd-Shift-R` on my
@@ -95,8 +96,8 @@ when deep in a client project).
 1. Set up the maximum days between contacts you'd like to commit to for these
    tiers, and enter them in the `tiers` sheet.
 1. You'll probably find that you're in the red at first with a lot of the
-   people in your tier 1. Catch up at a sustainable pace, 1-2 people per day,
-   until the red is gone.
+   people in your tier 1. Perform outreach at a sustainable pace, 1-2 people
+   per day, until the red is gone.
 
 ## Maintenance of your power circles
 
