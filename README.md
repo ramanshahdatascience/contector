@@ -12,13 +12,13 @@ your power to get there, too, with the help of this workbook.
 In the pre-industrial age, with your tribe all in close physical proximity,
 memory and random encounters were enough to stay current with your tribe. In
 the industrial age, with relationships spanning great distance and pandemics
-limiting proximity, these tools are inadequate. Alone, they allow far too many
-people at the periphery of your tribe to fade into disconnection, your world
-collapses into isolation. Human cognition is simply bad at noticing what isn't
-there.  If you rely on social media, you're pulled into too many connections of
-too low a quality, sorted badly. Social media gives the most headspace to
-the smuggest, neediest, or more controversial people, who sell engagement and
-ads, instead of the most generous or reliable.
+limiting proximity, these tools are inadequate. Human cognition is simply bad
+at noticing who isn't there. Memory alone allows far too many people at the
+periphery of your tribe to fade into disconnection, causing your world to
+implode into social isolation. If you rely on social media, you're pulled into
+too many connections of too low a quality, sorted badly. Social media gives the
+most headspace to the smuggest, neediest, or most controversial acquaintances
+(who sell engagement and ads) instead of the most generous or reliable.
 
 Robinett argues that the heart of "networking" or "strategic relationship
 management" is the following workflow:
@@ -75,16 +75,15 @@ when deep in a client project).
    list of all the people you've been in touch with in the recent past and when
    and how you were in contact with them. I wrote some little scripts
    (unpublished) to merge names from social media data exports, cell phone
-   contacts, etc., but in all cases, this is backbreaking given how many ways
-   (including analog in-person interactions) one connects with people. I ended
-   up with 1300-1400 distinct people; the latter two fields were unknown for
-   most of them.
-1. Start all of these people with a `tier` of 0.
-1. Make a pass through all of these people. When you see a relationship that
-   feels warm (or that deserves effort to get to warm), assign them an
-   appropriate tier (1, 2, or 3, 3 being the warmest) depending on how close
-   they are. This volume of judgment calls about one's relationships is also a
-   lot of (emotional) effort.
+   contacts, etc., but regardless of automation, this is a lot of clerical
+   effort given how many ways (including analog in-person conversations) you
+   likely connect with people. I ended up with 1300-1400 distinct people; the
+   latter two fields were unknown for most of them.
+1. Start everyone at a `tier` of 0.
+1. Make a pass through everyone. When you see a relationship that feels warm
+   (or that deserves effort to get to warm), assign them an appropriate tier
+   (1, 2, or 3; 3 is the warmest) depending on how close they are. This large
+   number of emotional judgment calls is also a lot of effort.
 1. Use Excel's "custom sort" to sort people by tier, then by last contacted,
    then by last name. This custom sort has been saved in this spreadsheet. You
    can pull it up using `Alt + A + S + S` on Excel 365 (`Cmd-Shift-R` on my
@@ -112,11 +111,11 @@ when deep in a client project).
    it's helpful to routinely be steady in reaching out to 1-2 people who have
    bubbled up each day, building up a margin so you can gradually work through
    clumps that bubble up.
-1. Use the `average_recency` sheet to monitor how you're keeping up your
-   relationship management in general. I find, between people who fall all the
-   way to near-zero recency and others whom I contact more regularly and
-   spontaneously, that my average recency fluctuates in the 57-68% range.
-   You'll find in practice that this score fluctuates as you get busier and
-   less busy with billable work, life events, etc.
+1. Use the `average_recency` sheet to monitor things. The aforementioned clumps
+   organize themselves, bubble upward, and smooth out over multiple 16-week
+   cycles. You may occasionally get slammed with other obligations and spend
+   less time on relationships. The average recency provides a crude measurement
+   of all this.  My average recency fluctuates in the 57-68% range; steady is
+   good.
 1. Add, remove, promote, and demote people from your power circles as they
    become relevant, ghost you, etc., by adding rows or adjusting tier labels.
