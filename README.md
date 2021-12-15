@@ -1,18 +1,33 @@
 # Contact reminders for power connectors
 
-This repo contains an Excel workbook (built with Excel for Mac 2019 but
-intended to be backward-compatible to Excel 2003) to accomplish the core
-bookkeeping in [How to be a Power
-Connector](https://isbnsearch.org/isbn/9780071830737) by Judy Robinett.
+This repo contains an Excel workbook to accomplish the core bookkeeping in [How
+to be a Power Connector](https://isbnsearch.org/isbn/9780071830737) by Judy
+Robinett.  As of the time of writing, I can prove that I've talked to all ~175
+people in my "tribe" in the last 16 weeks. I've been able to prove this
+continuously for 1.5 years.
+
+If this level of care for one's relationships inspires you, it's in your power
+to get there, too, with the help of this workbook. Read on.
+
+In the pre-industrial age, with your tribe all in close physical proximity,
+memory and random encounters were enough to stay current with your tribe. In
+the modern age, with relationships spanning great distance and pandemics
+limiting proximity, these tools are inadequate. Alone, they allow far too many
+people at the periphery of your tribe to fade into disconnection, and your
+tribe collapses to an excessively isolating size. Human cognition is simply bad
+at noticing what isn't there.  If you rely on social media, you're pulled into
+too many connections of too low a quality, prioritized badly (giving the most
+headspace to the smuggest, neediest, or more controversial people - who sell
+engagement and ads - instead of the most emotionally generous).
 
 Robinett argues that the heart of "networking" or "strategic relationship
 management" is the following workflow:
 
-- Identify your "tribe" of relationships encompassing all of your life,
-  business and personal. Its size will roughly be [Dunbar's
+- Identify your tribe: all significant interpersonal relationships encompassing
+  family, friendship, work, community, etc. Its size will roughly be [Dunbar's
   number](https://en.wikipedia.org/wiki/Dunbar%27s_number) (100-250, nominally
   ~150).
-- Divide that "tribe" into a few "power circles" or frequency tiers (Robinett
+- Divide this tribe into a few "power circles" or frequency tiers (Robinett
   suggests three tiers: 5 + 50 + 100 = 155).
 - Commit to a frequency of contact for each power circle (Robinett suggests
   being in touch with each of the 5 daily, each of the 50 weekly, and each of
@@ -21,35 +36,37 @@ management" is the following workflow:
 - Continually upgrade these power circles as you meet worthwhile new people and
   others inevitably roll off.
 
-This workbook provides a place to maintain a list of people, their place in
-one's power circles, and information about the most recent contact for each of
-them. It uses some conditional formatting and custom sorting to make it
-comfortable to carry out Robinett's proposal in practice, reviewing at a glance
-when "it has been too long" with someone.
+This workbook (built with Excel for Mac 2019 but backward-compatible to Excel
+2003) provides a place to maintain a list of people, their place in one's power
+circles, and information about the most recent contact for each of them. It
+uses some conditional formatting and custom sorting to make it comfortable to
+carry out Robinett's proposal in practice, getting reliable contact reminders
+at a glance when "it has been too long" with someone important instead of
+relying on a fallible memory to do so.
 
 Robinett's recommendations add up to a baseline of adding value to ~15
 different people in one's power circles every day, 365 days a year. I don't
 consider this realistic for people with an occupation other than "full-time
-networker."
-
-This spreadsheet's defaults for the sizes and frequencies of the tiers dial
-these parameters down a great deal while staying true to Robinett's basic
-Dunbar's-number-based structure:
+networker." This spreadsheet's defaults for the sizes and frequencies of the
+tiers dial these parameters down a great deal while staying true to Robinett's
+basic Dunbar's-number-based structure:
 
 - The default power circle sizes are 5 + 25 + 120 = 150.
 - The spreadsheet suggests being in touch with each of the 5 weekly, each of
   the 25 every 4 weeks, and each of the 120 every 16 weeks. This adds up to a
-  few people every day. (5/7 + 25/28 + 120/112 = 2.68, but the number of people
-  you contact on an average day will be higher, as you will often connect with
-  people spontaneously before they've fallen to 0% recency in the spreadsheet.)
+  handful of people every day. (5/7 + 25/28 + 120/112 = 2.68, but the number of
+  people you communicate with on an average day will be higher. You will often
+  connect with people spontaneously before they've fallen to 0% recency in the
+  spreadsheet, and asynchronous conversations like email threads often span
+  many days.)
 
-I've found this intensity to be sustainable in lieu of being on social media.
-It consumes similar or slightly more bandwidth as, e.g., routine Facebook use,
-but the relationship value enjoyed is far richer. The frequency of contact
-enforced by this system keeps friendships warm even in isolating life
-circumstances, such as in COVID times as a serial transplant with many young
-parents for friends. It also helps independents like me keep a professional
-network healthy even when busy (e.g., when deep in a client project).
+I've found this reduced intensity to be sustainable in lieu of being routinely
+on social media: it consumes similar emotional and temporal bandwidth but with
+far richer rewards. The frequency of contact enforced by this system keeps
+friendships warm even in isolating life circumstances, such as in COVID times
+as a serial transplant with many young parents for friends.  It also helps
+independents like me keep a professional network healthy even when busy (e.g.,
+when deep in a client project).
 
 ## Initial setup
 
@@ -60,42 +77,45 @@ network healthy even when busy (e.g., when deep in a client project).
    (unpublished) to merge names from social media data exports, cell phone
    contacts, etc., but in all cases, this is backbreaking given how many ways
    (including analog in-person interactions) one connects with people. I ended
-   up with 1300-1400 people; the latter two fields were unknown for most of
-   them.
-1. Assign `0` to `tier` for all of these people.
+   up with 1300-1400 distinct people; the latter two fields were unknown for
+   most of them.
+1. Start all of these people with a `tier` of 0.
 1. Make a pass through all of these people. When you see a relationship that
    feels warm (or that deserves effort to get to warm), assign them an
-   appropriate tier (1, 2, or 3, 3 being closest) depending on how close they
-   are.
+   appropriate tier (1, 2, or 3, 3 being the warmest) depending on how close
+   they are.
 1. Use Excel's "custom sort" to sort people by tier, then by last contacted,
    then by last name. This custom sort has been saved in this spreadsheet. You
-   can pull it up using `Ctrl-Shift-R` (`Cmd-Shift-R` on a Mac). You'll use
-   this custom sort all of the time in this spreadsheet.
+   can pull it up using `Alt + A + S + S` on Excel 365 (`Cmd-Shift-R` on my
+   2019 Excel for Mac). You'll use this custom sort all of the time in this
+   spreadsheet.
 1. Massage these tier labels until their sizes are reasonably in line with the
-   above guidance. They don't have to be exact (in fact my power circles are
-   closer to 4 + 16 + 160 = 180).
+   above guidance. They don't have to be exact (at the time of writing my power
+   circles are 2 + 16 + 159 = 177).
 1. Set up the maximum days between contacts you'd like to commit to for these
    tiers, and enter them in the `tiers` sheet.
 1. You'll probably find that you're in the red at first with a lot of the
-   people in your tier 1. Good practice is to catch up at a sustainable pace,
-   1-2 people per day. If you rapidly get current with your tier 1 in a bonanza
-   of outreach, you'll have a lumpy recency distribution where, in 16 weeks,
-   you get overwhelmed with everyone coming due again at once.
+   people in your tier 1. Catch up at a sustainable pace, 1-2 people per day,
+   until the red is gone.
 
 ## Maintenance of your power circles
 
-1. Every day, enter the date and description of your contacts with people in
-   your power circles. The `Ctrl-;` shortcut key for today's date is key here.
-1. Re-apply the custom sort  to tidy up the list and easily review who is
-   "bubbling up" in your power circles. On my 2019 Excel for Mac, the sort is
-   pulled up with a `Cmd-Shift-R`; on a current version of Excel 365 on a
-   Windows machine, this is done by typing `Alt + A + S + S` in sequence.
+1. Every day, enter the date and description of your interactions with everyone
+   in your power circles. The `Ctrl-;` shortcut key for today's date is key
+   here.
+1. Re-apply the custom sort shortcut key to tidy up the list and easily review
+   who is "bubbling up" in your power circles.
+1. Typically, socially intense events (weddings, deaths, reunions) will refresh
+   a lot of connections at the periphery of your tribe. A clump of these tier 1
+   people will then bubble up 16 weeks later. To mitigate the stress of this,
+   it's helpful to routinely be steady in reaching out to 1-2 people who have
+   bubbled up each day, building up a margin so you can gradually work through
+   clumps that bubble up.
 1. Use the `average_recency` sheet to monitor how you're keeping up your
    relationship management in general. I find, between people who fall all the
    way to near-zero recency and others whom I contact more regularly and
-   spontaneously, that my average recency hovers in the 57-68% range. You'll
-   find in practice that this score fluctuates as you get busier and less busy
-   with billable work, life events, etc.
+   spontaneously, that my average recency fluctuates in the 57-68% range.
+   You'll find in practice that this score fluctuates as you get busier and
+   less busy with billable work, life events, etc.
 1. Add, remove, promote, and demote people from your power circles as they
-   become relevant, disengage from you, etc., by adding rows or adjusting their
-   tier labels.
+   become relevant, ghost you, etc., by adding rows or adjusting tier labels.
