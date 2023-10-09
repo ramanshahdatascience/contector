@@ -1,13 +1,13 @@
 # Contact reminders for power connectors
 
-This repo contains an Excel workbook to accomplish the core bookkeeping in [How
-to be a Power Connector](https://isbnsearch.org/isbn/9780071830737) by Judy
-Robinett.
+If you know me and you've heard "you've bubbled up in my little system" - here
+is that little system.
 
-At the time of writing, I can prove that I've talked to all 177 people in my
-"tribe" in the last 16 weeks. I've been able to prove such a thing continuously
-for 1.5 years. If this level of care for relationships inspires you, it's in
-your power to get there, too, with the help of this workbook.
+At the time of writing, I can prove that I've talked to all 178 people in my
+"tribe" in the last 16 weeks. I've maintained such a fact on a perpetual and
+rolling basis for about three years. If this level of care for relationships
+inspires you, it's in your power to get there, too, with the help of
+`power_circles.xlsx` maintained here.
 
 In the pre-industrial age, with your tribe all in close physical proximity,
 memory and random encounters were enough to stay current with your tribe. In
@@ -20,8 +20,9 @@ too many connections of too low a quality, sorted badly. Social media gives the
 most headspace to the smuggest, neediest, or most controversial acquaintances
 (who sell engagement and ads) instead of the most generous or reliable.
 
-Robinett argues that the heart of "networking" or "strategic relationship
-management" is the following workflow:
+[Judy Robinett](https://isbnsearch.org/isbn/9780071830737) argues that the
+heart of "networking" or "strategic relationship management" is the following
+workflow:
 
 - Identify your tribe: all significant interpersonal relationships encompassing
   family, friendship, work, community, etc. Its size will roughly be [Dunbar's
@@ -37,19 +38,18 @@ management" is the following workflow:
   others inevitably roll off.
 
 This workbook (built with Excel for Mac 2019 but backward-compatible to Excel
-2003) provides a place to maintain a list of people, their place in one's power
-circles, and information about the most recent contact for each of them. It
-uses some conditional formatting and custom sorting to make it comfortable to
-carry out Robinett's proposal in practice, getting reliable contact reminders
-at a glance when "it has been too long" with someone important instead of
-relying on a fallible memory to do so.
+2003) operationalizes this proposal. It provides a place to maintain a list of
+people, each person's place in one's power circles, and when and how you last
+contacted them. This is deliberately much less information than you'd store in
+"personal CRM" apps available elsewhere. It generates reliable contact
+reminders at a glance when "it has been too long" with someone you care about.
 
 Robinett's recommendations add up to a baseline of adding value to ~15
 different people in one's power circles every day, 365 days a year. I don't
 consider this realistic for people with an occupation other than "full-time
 networker." This spreadsheet's defaults for the sizes and frequencies of the
 tiers dial these parameters down a great deal while staying true to Robinett's
-basic Dunbar's-number-based structure:
+basic structure of a few frequency tiers addding up to Dunbar's number:
 
 - The default power circle sizes are 5 + 25 + 120 = 150.
 - The spreadsheet suggests being in touch with each of the 5 weekly, each of
@@ -76,9 +76,9 @@ when deep in a client project).
    and how you were in contact with them. I wrote some little scripts
    (unpublished) to merge names from social media data exports, cell phone
    contacts, etc., but regardless of automation, this is a lot of clerical
-   effort given how many ways (including analog in-person conversations) you
-   likely connect with people. I ended up with 1300-1400 distinct people; the
-   latter two fields were unknown for most of them.
+   effort given how many ways (including analog in-person conversations) people
+   connect in practice. I ended up with 1300-1400 names; the latter two fields
+   were unknown for most of them.
 1. Start everyone at a `tier` of 0.
 1. Make a pass through everyone. When you see a relationship that feels warm
    (or that deserves effort to get to warm), assign them an appropriate tier
@@ -91,7 +91,7 @@ when deep in a client project).
    spreadsheet.
 1. Massage these tier labels until their sizes are reasonably in line with the
    above guidance. They don't have to be exact (at the time of writing my power
-   circles are 2 + 16 + 159 = 177).
+   circles are 2 + 14 + 162 = 178).
 1. Set up the maximum days between contacts you'd like to commit to for these
    tiers, and enter them in the `tiers` sheet.
 1. You'll probably find that you're in the red at first with a lot of the
@@ -102,15 +102,17 @@ when deep in a client project).
 
 1. Every day, enter the date and description of your interactions with everyone
    in your power circles. The `Ctrl-;` shortcut key for today's date is key
-   here.
-1. Re-apply the custom sort shortcut key to tidy up the list and easily review
-   who is "bubbling up" in your power circles.
-1. Typically, socially intense events (weddings, deaths, reunions) will refresh
-   a lot of connections at the periphery of your tribe. A clump of these tier 1
-   people will then bubble up 16 weeks later. To mitigate the stress of this,
-   it's helpful to routinely be steady in reaching out to 1-2 people who have
-   bubbled up each day, building up a margin so you can gradually work through
-   clumps that bubble up.
+   here. It's key to take credit for everyone you interacted with, not just the
+   people who bubbled up. Resetting the clock on spontaneous encounters is what
+   makes the system tractable and reliable.
+1. Continually apply the `Alt + A + S + S`/`Cmd-Shift-R` custom sort to tidy up
+   the list and review who has "bubbled up" to the top of the spreadsheet.
+1. Typically, socially intense events (weddings, deaths, conferences, reunions)
+   will refresh a lot of connections at the periphery of your tribe. A clump of
+   these tier 1 people will then bubble up 16 weeks later. To mitigate the
+   stress of this, it's helpful to routinely be steady in reaching out to 1-2
+   people who have bubbled up each day, building up a margin so you can
+   gradually work through clumps that bubble up.
 1. Use the `average_recency` sheet to monitor things. The aforementioned clumps
    organize themselves, bubble upward, and smooth out over multiple 16-week
    cycles. You may occasionally get slammed with other obligations and spend
