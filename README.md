@@ -1,5 +1,11 @@
 # Contact reminders for power connectors
 
+**Disclaimer: Lots of people immediately try to use this spreadsheet in Google
+Sheets, but I consider real Excel a hard requirement. What bubbles people up is
+a complex pre-defined sort. Excel has a shortcut key to re-run such a sort, and
+Google Sheets does not. Without the shortcut key, I find the user experience
+unacceptable.**
+
 If you know me and you've heard "you've bubbled up in my little system" - here
 is that little system.
 
